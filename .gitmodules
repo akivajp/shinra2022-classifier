@@ -1,0 +1,3 @@
+[submodule "WikiEntVec"]
+	path = WikiEntVec
+	url = git@github.com:akivajp/WikiEntVec.git
