@@ -1,3 +1,6 @@
 [submodule "WikiEntVec"]
 	path = WikiEntVec
-	url = git@github.com:akivajp/WikiEntVec.git
+	url = https://github.com/akivajp/WikiEntVec.git
+[submodule "mecab-ipadic-neologd"]
+	path = mecab-ipadic-neologd
+	url = https://github.com/neologd/mecab-ipadic-neologd.git
